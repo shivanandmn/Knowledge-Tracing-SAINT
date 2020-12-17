@@ -1,6 +1,7 @@
 # SAINT---Knowledge-Tracing
 [Towards an Appropriate Query, Key, and Value Computation for Knowledge Tracing](https://arxiv.org/pdf/2002.07033.pdf) - Paper Implementation on [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction) Kaggle Competition
 
+forked from - https://github.com/arshadshk/SAINT-pytorch
 ## Citations
 
 ```bibtex
